@@ -1,4 +1,4 @@
-# Title: Maths- Print a pattern 
+# Title: Maths-Print a pattern 
 (will be the same as the file name: Maths-Pattern.md)
 
 Question link: https://www.hackerrank.com/challenges/printing-pattern-2/problem
@@ -32,3 +32,8 @@ int main()
 Attach a screenshot of your output by dragging the image here
 
 ![image](https://user-images.githubusercontent.com/64562764/120107657-86b5c980-c17f-11eb-9c74-8a19aa7358ea.png)
+
+### Comments:
+
+-
+(You can add a note for yourself to remember)
