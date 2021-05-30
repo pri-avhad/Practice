@@ -2,7 +2,7 @@
 
 This repository will help you and your friends track their success. 
 
-You will be notified everyday with a new question and after pulling the repository you will notice that a submission file will already be templated for you. (Sample of which you can open your folder and see) After solving your question you will have to update the submission file by adding your code and your output screenshot before making a new commit.
+You will be notified everyday with a new question and after pulling the repository you will notice that a submission file will already be templated for you. (Sample of which can be found in your folder) After solving your question you will have to update the submission file by adding your code and your output screenshot before making a new commit.
 
 ### How to get Started
 
