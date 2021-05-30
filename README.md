@@ -17,7 +17,7 @@ git clone https://github.com/<your username>/Practice.git
 
 **Make your changes**
 
-* Add a new problem and its solution (this will be used by you to refer to in the future)
+Add your code in the commented block and attach a screenshot of your output(this will be used by you to refer to in the future)
 
 **Commit and push**
 
