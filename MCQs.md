@@ -10,6 +10,7 @@
 </ol>
 
 Answer: B
+You can refer to: https://www.w3schools.com/sql/sql_alter.asp
 
 **Q. In SQL, which of the following commands is used to add a column to a table in a database?**
 
@@ -21,5 +22,6 @@ Answer: B
 </ol>
 
 Answer: A
+You can refer to: https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
 
 # All MCQS
