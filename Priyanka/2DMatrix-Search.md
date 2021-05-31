@@ -26,9 +26,11 @@ public:
 ![image](https://user-images.githubusercontent.com/64562764/120238814-9d8d1680-c27a-11eb-9c7d-479d9408a9fb.png)
 
 ### Comments:
-Traversal need not be 0 to something or the other way around always!
+Traversal need not be 0 to something or the other way around always! And it shouldn't always start at the [0,0]
+
 Here the traversal was interesting 
 
-![image](https://user-images.githubusercontent.com/64562764/120238587-1b9ced80-c27a-11eb-91f4-6fced79bb121.png)
+![image (3)](https://user-images.githubusercontent.com/64562764/120239121-40459500-c27b-11eb-95aa-a336619e79fc.png)
+
 
 And the time complexity is just O(m+n)
