@@ -1,12 +1,10 @@
 # Title: Maths-Print a pattern 
-(will be the same as the file name: Maths-Pattern.md)
 
 Question link: https://www.hackerrank.com/challenges/printing-pattern-2/problem
 
 ### Code:
 
 ```
-//Copy paste your code here
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -31,10 +29,8 @@ int main()
 
 Attach a screenshot of your output by dragging the image here
 
-![image](https://user-images.githubusercontent.com/64562764/120107657-86b5c980-c17f-11eb-9c74-8a19aa7358ea.png)
+![image](https://user-images.githubusercontent.com/64562764/120239302-961a3d00-c27b-11eb-8363-7e841171f1b1.png)
 
 ### Comments:
 
-...
-
-(You can add a note for yourself to remember)
+This was interesting because the element to be printed had a new constraint. It was as the distance from the center
