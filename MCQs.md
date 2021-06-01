@@ -1,5 +1,30 @@
 # Today's MCQS
 
+**Q. In OOP, a friend function of a class has exclusive access to which members of that class?**
+
+<ol type="a">
+  <li>Private & protected members</li>
+  <li>Public & protected members</li>
+  <li>Private & public members</li>
+  <li>Private members</li>
+  <li>Protected members</li>
+</ol>
+
+Answer: A <br/>You can refer to: https://www.programiz.com/cpp-programming/friend-function-class
+
+**Q. What is the postfix expression for the following prefix expression: * + p q - r s**
+
+<ol type="a">
+  <li>pq + rs-*</li>
+  <li>pqrs +-*</li>
+  <li>pq + rs *-</li>
+  <li>pq+-rs*</li>
+</ol>
+
+Answer: A <br/>You can refer to: https://www.geeksforgeeks.org/prefix-postfix-conversion/
+
+# All MCQS
+
 **Q. Which of the following is an inorder traversal of a tree whose postorder traversal is 10, 9, 23, 22, 27, 25, 15, 50, 95, 60,40, 29?**
 
 <ol type="a">
@@ -21,5 +46,3 @@ Answer: B <br/>You can refer to: https://www.w3schools.com/sql/sql_alter.asp
 </ol>
 
 Answer: A <br/>You can refer to: https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
-
-# All MCQS
