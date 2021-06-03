@@ -3,7 +3,7 @@
 Question link: https://leetcode.com/problems/longest-palindromic-substring/
 
 ### Code:
-
+```
 string longestPalindrome(string s) {
         int n=s.size();
         bool dp[n][n];
@@ -40,7 +40,7 @@ string longestPalindrome(string s) {
         }
         return ans;
     }
-    
+   ``` 
 ### Output:
 
 
