@@ -1,24 +1,23 @@
 # Today's MCQS
 
-**Q. How many nodes does a complete binary tree with N leaves contain?**
+**Q. In OOP, which of the following is used to achieve runtime polymorphism?**
 
 <ol type="a">
-  <li>2N</li>
-  <li>N</li>
-  <li>2N-1</li>
-  <li>N-1</li>
-  <li>2(N-1)</li>
+  <li>A friend function</li>
+  <li>A virtual function</li>
+  <li>Operator overloading</li>
+  <li>Function overloading</li>
 </ol>
 
-Answer: C <br/>You can refer to: https://www.geeksforgeeks.org/binary-tree-set-2-properties/
+Answer: B <br/>You can refer to: https://www.geeksforgeeks.org/polymorphism-in-c/
 
-**Q. Which of these is an expression for runtime in T(n) for the following recurrence: T(n)=4T (n/ 2) + n²**
+**Q. In OOP, which of the following concepts allows a class object to be used inside another class?**
 
 <ol type="a">
-  <li>O(n²)</li>
-  <li>O(nlogn)</li>
-  <li>O(n²logn)</li>
-  <li>O(nIog²n)</li>
+  <li>Encapsulation</li>
+  <li>Abstraction</li>
+  <li>Composition</li>
+  <li>Inheritance</li>
 </ol>
 
 Answer: C 
@@ -69,3 +68,26 @@ Answer: A <br/>You can refer to: https://www.programiz.com/cpp-programming/frien
 </ol>
 
 Answer: A <br/>You can refer to: https://www.geeksforgeeks.org/prefix-postfix-conversion/
+
+**Q. How many nodes does a complete binary tree with N leaves contain?**
+
+<ol type="a">
+  <li>2N</li>
+  <li>N</li>
+  <li>2N-1</li>
+  <li>N-1</li>
+  <li>2(N-1)</li>
+</ol>
+
+Answer: C <br/>You can refer to: https://www.geeksforgeeks.org/binary-tree-set-2-properties/
+
+**Q. Which of these is an expression for runtime in T(n) for the following recurrence: T(n)=4T (n/ 2) + n²**
+
+<ol type="a">
+  <li>O(n²)</li>
+  <li>O(nlogn)</li>
+  <li>O(n²logn)</li>
+  <li>O(nIog²n)</li>
+</ol>
+
+Answer: C 
