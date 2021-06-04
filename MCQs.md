@@ -1,26 +1,6 @@
 # Today's MCQS
 
-**Q. In OOP, which of the following is used to achieve runtime polymorphism?**
 
-<ol type="a">
-  <li>A friend function</li>
-  <li>A virtual function</li>
-  <li>Operator overloading</li>
-  <li>Function overloading</li>
-</ol>
-
-Answer: B <br/>You can refer to: https://www.geeksforgeeks.org/polymorphism-in-c/
-
-**Q. In OOP, which of the following concepts allows a class object to be used inside another class?**
-
-<ol type="a">
-  <li>Encapsulation</li>
-  <li>Abstraction</li>
-  <li>Composition</li>
-  <li>Inheritance</li>
-</ol>
-
-Answer: C 
 
 # All MCQS
 
@@ -88,6 +68,28 @@ Answer: C <br/>You can refer to: https://www.geeksforgeeks.org/binary-tree-set-2
   <li>O(nlogn)</li>
   <li>O(n²logn)</li>
   <li>O(nIog²n)</li>
+</ol>
+
+Answer: C 
+
+**Q. In OOP, which of the following is used to achieve runtime polymorphism?**
+
+<ol type="a">
+  <li>A friend function</li>
+  <li>A virtual function</li>
+  <li>Operator overloading</li>
+  <li>Function overloading</li>
+</ol>
+
+Answer: B <br/>You can refer to: https://www.geeksforgeeks.org/polymorphism-in-c/
+
+**Q. In OOP, which of the following concepts allows a class object to be used inside another class?**
+
+<ol type="a">
+  <li>Encapsulation</li>
+  <li>Abstraction</li>
+  <li>Composition</li>
+  <li>Inheritance</li>
 </ol>
 
 Answer: C 
