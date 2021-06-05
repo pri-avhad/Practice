@@ -3,7 +3,7 @@
 Question link: https://leetcode.com/problems/word-search/
 
 ### Code
-
+```
 class Solution {
 public:
     
@@ -56,7 +56,6 @@ public:
 
 ### Output:
 ![Screenshot (501)](https://user-images.githubusercontent.com/68456662/120891983-58296a00-c629-11eb-8b3f-17c497f770eb.png)
-
 
 
 ### Comments:
